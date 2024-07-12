@@ -22,9 +22,9 @@ A collection of awesome papers for graph learning theory.
 - Rethinking the expressive power of gnns via graph biconnectivity
 - Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness
 
-## Generalization bound
+## [Generalization bound](#content)
 
-### Complexity of hypothesis space based
+### [Complexity of hypothesis space based](#content)
 
 1. [The Vapnik–Chervonenkis dimension of graph and recursive neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302363?via%3Dihub), Neural Networks 2018 \
    *Scarselli, Franco and Tsoi, Ah Chung and Hagenbuchner, Markus*
@@ -47,7 +47,7 @@ A collection of awesome papers for graph learning theory.
 7. [Towards understanding generalization of graph neural networks](https://proceedings.mlr.press/v202/tang23f/tang23f.pdf), ICML 2023 \
    *Huayi Tang, Yong Liu*
 
-### PAC-Bayes based
+### [PAC-Bayes based](#content)
 
 1. [A pac-bayesian approach to generalization bounds for graph neural networks](https://openreview.net/pdf?id=TR-Nj6nFx42), ICLR 2021 \
    *Renjie Liao, Raquel Urtasun, Richard S. Zemel*
@@ -61,7 +61,7 @@ A collection of awesome papers for graph learning theory.
 4. [Pac-bayesian adversarially robust generalization bounds for graph neural network](https://arxiv.org/pdf/2402.04038), CoRR 2024 \
    *Tan Sun, Junhong Lin*
 
-### Stability based
+### [Stability based](#content)
 
 1. [Stability and generalization of graph convolutional neural networks](https://dl.acm.org/doi/pdf/10.1145/3292500.3330956), KDD 2019 \
    *Saurabh Verma, Zhi-Li Zhang*
@@ -72,7 +72,7 @@ A collection of awesome papers for graph learning theory.
 3. [On provable benefits of depth in training graph convolutional networks](https://proceedings.neurips.cc/paper_files/paper/2021/file/524265e8b942930fbbe8a5d979d29205-Paper.pdf), NeurIPS 2021 \
    *Weilin Cong, Morteza Ramezani, Mehrdad Mahdavi*
 
-### NTK based
+### [NTK based](#content)
 
 1. [Graph neural tangent kernel: Fusing graph neural networks with graph kernels](https://proceedings.neurips.cc/paper_files/paper/2019/file/663fd3c5144fd10bd5ca6611a9a5b92d-Paper.pdf), NeurIPS 2019 \
    *Simon S. Du, Kangcheng Hou, Ruslan Salakhutdinov, Barnabás Póczos, Ruosong Wang, Keyulu Xu*
