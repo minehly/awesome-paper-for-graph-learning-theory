@@ -16,7 +16,9 @@ A collection of awesome papers for graph learning theory.
 - Over-squashing in graph neural networks: A comprehensive survey
 
 ## Expressive power
-- Fine-grained expressivity of graph neural networks
+
+1. [Fine-grained expressivity of graph neural networks](https://proceedings.neurips.cc/paper_files/paper/2023/file/9200d97ca2bf3a26db7b591844014f00-Paper-Conference.pdf), NeurIPS 2024 \
+   B{\"o}ker, Jan and Levie, Ron and Huang, Ningyuan and Villar, Soledad and Morris, Christopher
 - Rethinking the expressive power of gnns via graph biconnectivity
 - Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness
 
