@@ -5,7 +5,7 @@ A collection of awesome papers for graph learning theory.
 - [awesome-paper-for-graph-learning-theory](#awesome-paper-for-graph-learning-theory-)
   -[Surveys](#surveys)
   - [Expressive power](#expressive-power)
-  - [Generalization ability](#generalization-ability)
+  - [Generalization bound](#generalization-bound)
   - [Optimization](#optimization)
   - [Over-smoothing](#over-smoothing)
   - [Over-squashing](#over-squashing)
@@ -22,8 +22,12 @@ A collection of awesome papers for graph learning theory.
 - Rethinking the expressive power of gnns via graph biconnectivity
 - Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness
 
-## Generalization ability
-- Towards understanding generalization of graph neural networks
+## Generalization bound
+### Complexity of hypothesis space based
+
+1. [The Vapnik–Chervonenkis dimension of graph and recursive neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302363?via%3Dihub), Neural Networks 108: 248-259 (2018) \
+   *Scarselli, Franco and Tsoi, Ah Chung and Hagenbuchner, Markus*
+   
 - Generalization and representational limits of graph neural networks
 - A pac-bayesian approach to generalization bounds for graph neural networks
 
